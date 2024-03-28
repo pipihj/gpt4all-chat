@@ -54,4 +54,4 @@ NOTE: File->Open File or Project and navigate to the gpt4all-chat repo and choos
 
 ![image](https://github.com/nomic-ai/gpt4all-chat/assets/10168/611ea795-bdcd-4feb-a466-eb1c2e936e7e)
 
-
+0
